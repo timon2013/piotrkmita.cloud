@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://piotrkmita.cloud/blog</id>
+    <title>Piotr Kmita Blog</title>
+    <updated>2024-05-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://piotrkmita.cloud/blog"/>
+    <subtitle>Piotr Kmita Blog</subtitle>
+    <icon>https://piotrkmita.cloud/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://piotrkmita.cloud/blog/welcome</id>
+        <link href="https://piotrkmita.cloud/blog/welcome"/>
+        <updated>2024-05-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Witaj na mojej stronie! To pierwszy wpis na tym blogu, i mam nadzieję, że nie ostatni :)]]></summary>
+        <content type="html"><![CDATA[<p>Witaj na mojej stronie! To pierwszy wpis na tym blogu, i mam nadzieję, że nie ostatni :)</p>
+<p>Zdecydowałem się stworzyć prostą stronę, którą będę mógł utrzymać i zarządzać bez większego nakładu czasu. Wcześniej korzystałem głównie z systemu Wordpress, ale tym razem postawiłem na rozwiązanie Docusaurus.io. Pozwala mi to na integrację ze środowiskiem Github oraz na pisanie postów za pomocą Markdown.</p>]]></content>
+        <author>
+            <name>Piotr Kmita</name>
+            <uri>https://github.com/timon2013/</uri>
+        </author>
+        <category label="welcome" term="welcome"/>
+        <category label="hello" term="hello"/>
+        <category label="site" term="site"/>
+        <category label="blog" term="blog"/>
+    </entry>
+</feed>

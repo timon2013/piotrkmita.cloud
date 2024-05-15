@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Piotr Kmita Blog</title>
+        <link>https://piotrkmita.cloud/en/blog</link>
+        <description>Piotr Kmita Blog</description>
+        <lastBuildDate>Mon, 06 May 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://piotrkmita.cloud/en/blog/welcome</link>
+            <guid>https://piotrkmita.cloud/en/blog/welcome</guid>
+            <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to my website! This is the first post on this blog, and hopefully not the last :)]]></description>
+            <content:encoded><![CDATA[<p>Welcome to my website! This is the first post on this blog, and hopefully not the last :)</p>
+<p>I decided to create a simple website that I won't have to spend a lot of time maintaining and managing. Previously, I mainly operated on the Wordpress system, but this time I opted for Docusaurus.io solution. This allows me to integrate with the Github environment and write posts using Markdown.</p>]]></content:encoded>
+            <category>welcome</category>
+            <category>hello</category>
+            <category>site</category>
+            <category>blog</category>
+        </item>
+    </channel>
+</rss>

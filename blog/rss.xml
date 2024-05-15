@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Piotr Kmita Blog</title>
+        <link>https://piotrkmita.cloud/blog</link>
+        <description>Piotr Kmita Blog</description>
+        <lastBuildDate>Mon, 06 May 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>pl</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://piotrkmita.cloud/blog/welcome</link>
+            <guid>https://piotrkmita.cloud/blog/welcome</guid>
+            <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Witaj na mojej stronie! To pierwszy wpis na tym blogu, i mam nadzieję, że nie ostatni :)]]></description>
+            <content:encoded><![CDATA[<p>Witaj na mojej stronie! To pierwszy wpis na tym blogu, i mam nadzieję, że nie ostatni :)</p>
+<p>Zdecydowałem się stworzyć prostą stronę, którą będę mógł utrzymać i zarządzać bez większego nakładu czasu. Wcześniej korzystałem głównie z systemu Wordpress, ale tym razem postawiłem na rozwiązanie Docusaurus.io. Pozwala mi to na integrację ze środowiskiem Github oraz na pisanie postów za pomocą Markdown.</p>]]></content:encoded>
+            <category>welcome</category>
+            <category>hello</category>
+            <category>site</category>
+            <category>blog</category>
+        </item>
+    </channel>
+</rss>

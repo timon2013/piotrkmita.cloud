@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://piotrkmita.cloud/en/blog</id>
+    <title>Piotr Kmita Blog</title>
+    <updated>2024-05-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://piotrkmita.cloud/en/blog"/>
+    <subtitle>Piotr Kmita Blog</subtitle>
+    <icon>https://piotrkmita.cloud/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://piotrkmita.cloud/en/blog/welcome</id>
+        <link href="https://piotrkmita.cloud/en/blog/welcome"/>
+        <updated>2024-05-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to my website! This is the first post on this blog, and hopefully not the last :)]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to my website! This is the first post on this blog, and hopefully not the last :)</p>
+<p>I decided to create a simple website that I won't have to spend a lot of time maintaining and managing. Previously, I mainly operated on the Wordpress system, but this time I opted for Docusaurus.io solution. This allows me to integrate with the Github environment and write posts using Markdown.</p>]]></content>
+        <author>
+            <name>Piotr Kmita</name>
+            <uri>https://github.com/timon2013/</uri>
+        </author>
+        <category label="welcome" term="welcome"/>
+        <category label="hello" term="hello"/>
+        <category label="site" term="site"/>
+        <category label="blog" term="blog"/>
+    </entry>
+</feed>
