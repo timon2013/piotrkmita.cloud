@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpersonal_site=self.webpackChunkpersonal_site||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Discover the Power of Amazon Q","permalink":"/en/blog/discover-power-amazon-q","unlisted":false},{"title":"Welcome","permalink":"/en/blog/welcome","unlisted":false}]}')}}]);
