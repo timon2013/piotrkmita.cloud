@@ -4,10 +4,46 @@
         <title>Piotr Kmita Blog</title>
         <link>https://piotrkmita.cloud/blog</link>
         <description>Piotr Kmita Blog</description>
-        <lastBuildDate>Mon, 06 May 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[Odkryj Moc Amazon Q]]></title>
+            <link>https://piotrkmita.cloud/blog/odkryj-moc-amazon-q</link>
+            <guid>https://piotrkmita.cloud/blog/odkryj-moc-amazon-q</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Odkryj Moc Amazon Q]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="odkryj-moc-amazon-q">Odkryj Moc Amazon Q<a href="https://piotrkmita.cloud/blog/odkryj-moc-amazon-q#odkryj-moc-amazon-q" class="hash-link" aria-label="Bezpośredni link do Odkryj Moc Amazon Q" title="Bezpośredni link do Odkryj Moc Amazon Q">​</a></h3>
+<p>Amazon niedawno zaprezentował Amazon Q, potężnego asystenta opartego na generatywnej AI, który ma na celu zrewolucjonizowanie sposobu, w jaki funkcjonują przedsiębiorstwa. To innowacyjne narzędzie, które jest już dostępne, ma usprawnić procesy i zwiększyć produktywność w różnych branżach.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="czym-jest-amazon-q">Czym jest Amazon Q?<a href="https://piotrkmita.cloud/blog/odkryj-moc-amazon-q#czym-jest-amazon-q" class="hash-link" aria-label="Bezpośredni link do Czym jest Amazon Q?" title="Bezpośredni link do Czym jest Amazon Q?">​</a></h4>
+<p>Amazon Q to asystent wykorzystujący generatywną AI, który korzysta z zaawansowanych modeli uczenia maszynowego, aby wspierać szeroki zakres aplikacji biznesowych. Oferuje on zaawansowane możliwości automatyzacji zadań, dostarczania informacji i usprawniania procesów decyzyjnych. Niezależnie od tego, czy potrzebujesz zbudować własne aplikacje AI, czy zintegrować AI z istniejącymi procesami, Amazon Q dostarcza kompleksowe rozwiązanie.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="kluczowe-funkcje">Kluczowe Funkcje<a href="https://piotrkmita.cloud/blog/odkryj-moc-amazon-q#kluczowe-funkcje" class="hash-link" aria-label="Bezpośredni link do Kluczowe Funkcje" title="Bezpośredni link do Kluczowe Funkcje">​</a></h4>
+<ol>
+<li>
+<p><strong>Amazon Q Apps</strong>: Ta funkcja pozwala firmom tworzyć aplikacje zasilane przez AI, dostosowane do ich specyficznych potrzeb. Użytkownicy mogą tworzyć aplikacje używając naturalnego języka i zatwierdzonych źródeł danych, co ułatwia wdrażanie rozwiązań generatywnej AI bez głębokiej wiedzy technicznej.</p>
+</li>
+<li>
+<p><strong>Integracja z SageMaker Studio</strong>: Programiści mogą teraz korzystać z Amazon Q w ramach SageMaker Studio, czerpiąc korzyści z dostosowanych sugestii kodu i zaawansowanych narzędzi zwiększających produktywność. Ta integracja upraszcza rozwijanie i wdrażanie modeli AI.</p>
+</li>
+<li>
+<p><strong>Zaawansowane Możliwości AI</strong>: Amazon Q oferuje takie funkcje jak spersonalizowane odpowiedzi na podstawie profili pracowników, możliwość ekstrakcji informacji ze skanowanych PDF-ów i obrazów oraz nowe API do programowego zarządzania aplikacjami.</p>
+</li>
+<li>
+<p><strong>Bezpieczeństwo i Zgodność</strong>: Dzięki podejściu skoncentrowanemu na bezpieczeństwie, Amazon Q zapewnia, że wszystkie interakcje AI i dane są przetwarzane zgodnie z najwyższymi standardami prywatności i zgodności, co czyni go odpowiednim do użycia w branżach regulowanych.</p>
+</li>
+</ol>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="dlaczego-wybrać-amazon-q">Dlaczego Wybrać Amazon Q?<a href="https://piotrkmita.cloud/blog/odkryj-moc-amazon-q#dlaczego-wybra%C4%87-amazon-q" class="hash-link" aria-label="Bezpośredni link do Dlaczego Wybrać Amazon Q?" title="Bezpośredni link do Dlaczego Wybrać Amazon Q?">​</a></h4>
+<p>Amazon Q wyróżnia się jako wszechstronny i solidny asystent AI, który można łatwo zintegrować z różnymi procesami biznesowymi. Jego zdolność do automatyzacji i usprawniania zadań oszczędza czas i zasoby, pozwalając pracownikom skupić się na bardziej strategicznych działaniach. Ponadto, jego bezproblemowa integracja z istniejącymi narzędziami i usługami AWS zapewnia, że firmy mogą wykorzystać swoją obecną infrastrukturę, aby w pełni korzystać z technologii generatywnej AI.</p>
+<p>Podsumowując, Amazon Q to nie tylko asystent AI; to kompleksowe narzędzie zaprojektowane, aby napędzać innowacje i efektywność w nowoczesnych środowiskach biznesowych. Dzięki zaawansowanym funkcjom i przyjaznym dla użytkownika możliwościom, Amazon Q ma szansę stać się nieocenionym zasobem dla firm pragnących wykorzystać moc AI.</p>
+<p>Sam używam Amazon Q zintegrowanego z Visual Studio Code. Przyspiesza mi to pisanie skryptów, choć czasami bywa to nieco irytujące. Jeśli masz ochotę również tego używać w swoim środowisku, podrzucam Ci oficjalną dokumentację: <a href="https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/welcome.html" target="_blank" rel="noopener noreferrer">AWS Toolkit dla Visual Studio Code</a>.</p>
+<p>Dzięki tej integracji, możesz zwiększyć swoją produktywność i efektywność w codziennej pracy programistycznej, korzystając z zaawansowanych funkcji AI bezpośrednio w Visual Studio Code.</p>]]></content:encoded>
+            <category>amazon q</category>
+            <category>amazon</category>
+            <category>visual studio code</category>
+            <category>ai</category>
+            <category>gen ai</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://piotrkmita.cloud/blog/welcome</link>
