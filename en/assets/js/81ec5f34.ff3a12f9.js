@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpersonal_site=self.webpackChunkpersonal_site||[]).push([[7882],{6341:t=>{t.exports=JSON.parse('{"authors":[{"name":"Piotr Kmita","title":"Maintainer of site","url":"https://github.com/timon2013/","imageURL":"https://github.com/timon2013.png","key":"pkmita","page":null,"count":3}]}')}}]);
