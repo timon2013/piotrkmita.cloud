@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://piotrkmita.cloud/en/blog</id>
     <title>Piotr Kmita Blog</title>
-    <updated>2024-07-23T00:00:00.000Z</updated>
+    <updated>2024-09-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://piotrkmita.cloud/en/blog"/>
     <subtitle>Piotr Kmita Blog</subtitle>
     <icon>https://piotrkmita.cloud/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Amazon Q Developer Code Challenge]]></title>
+        <id>https://piotrkmita.cloud/en/blog/amazon-q-developer-code-challenge</id>
+        <link href="https://piotrkmita.cloud/en/blog/amazon-q-developer-code-challenge"/>
+        <updated>2024-09-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Q Developer Code Challenge]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="amazon-q-developer-code-challenge">Amazon Q Developer Code Challenge<a href="https://piotrkmita.cloud/en/blog/amazon-q-developer-code-challenge#amazon-q-developer-code-challenge" class="hash-link" aria-label="Bezpośredni link do Amazon Q Developer Code Challenge" title="Bezpośredni link do Amazon Q Developer Code Challenge">​</a></h3>
+<p>The Amazon Q Developer Code Challenge, held at the 2024 AWS Summit, showcased a competition between two teams—one using Amazon Q Developer (an AI-powered assistant) and another coding manually.</p>
+<p>The AI-assisted team excelled, leveraging Q Developer’s code suggestions to complete complex tasks faster. The challenge highlighted the transformative impact of generative AI in software development, allowing for more efficient coding, problem-solving, and collaboration. The event demonstrated how AI tools like Amazon Q Developer can enhance productivity in modern programming environments.</p>
+<p>For more details, visit <a href="https://aws.amazon.com/blogs/devops/amazon-q-developer-code-challenge/" target="_blank" rel="noopener noreferrer">here</a>.</p>]]></content>
+        <author>
+            <name>Piotr Kmita</name>
+            <uri>https://github.com/timon2013/</uri>
+        </author>
+        <category label="amazon q" term="amazon q"/>
+        <category label="amazon" term="amazon"/>
+        <category label="ai" term="ai"/>
+        <category label="gen ai" term="gen ai"/>
+        <category label="challenge" term="challenge"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Discover the Power of Amazon Q]]></title>
         <id>https://piotrkmita.cloud/en/blog/discover-power-amazon-q</id>
