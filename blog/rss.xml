@@ -4,10 +4,26 @@
         <title>Piotr Kmita Blog</title>
         <link>https://piotrkmita.cloud/blog</link>
         <description>Piotr Kmita Blog</description>
-        <lastBuildDate>Tue, 23 Jul 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[Amazon Q Developer Code Challenge]]></title>
+            <link>https://piotrkmita.cloud/blog/amazon-q-developer-code-challenge</link>
+            <guid>https://piotrkmita.cloud/blog/amazon-q-developer-code-challenge</guid>
+            <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Amazon Q Developer Code Challenge]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="amazon-q-developer-code-challenge">Amazon Q Developer Code Challenge<a href="https://piotrkmita.cloud/blog/amazon-q-developer-code-challenge#amazon-q-developer-code-challenge" class="hash-link" aria-label="Bezpośredni link do Amazon Q Developer Code Challenge" title="Bezpośredni link do Amazon Q Developer Code Challenge">​</a></h3>
+<p>Amazon Q Developer Code Challenge, zorganizowany podczas AWS Summit 2024, to rywalizacja między zespołem korzystającym z asystenta AI, Amazon Q Developer, a zespołem kodującym ręcznie.</p>
+<p>Zespół wspomagany AI wykazał się większą wydajnością, szybciej realizując złożone zadania dzięki podpowiedziom generowanym przez narzędzie. Wydarzenie pokazało, jak AI może znacząco zwiększyć produktywność w programowaniu, wspierając kodowanie i rozwiązywanie problemów.</p>
+<p>Więcej informacji znajdziesz <a href="https://aws.amazon.com/blogs/devops/amazon-q-developer-code-challenge/" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>]]></content:encoded>
+            <category>amazon q</category>
+            <category>amazon</category>
+            <category>ai</category>
+            <category>gen ai</category>
+            <category>challenge</category>
+        </item>
         <item>
             <title><![CDATA[Odkryj moc Amazon Q]]></title>
             <link>https://piotrkmita.cloud/blog/discover-power-amazon-q</link>
@@ -45,7 +61,7 @@
             <category>gen ai</category>
         </item>
         <item>
-            <title><![CDATA[Welcome]]></title>
+            <title><![CDATA[Witaj]]></title>
             <link>https://piotrkmita.cloud/blog/welcome</link>
             <guid>https://piotrkmita.cloud/blog/welcome</guid>
             <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>

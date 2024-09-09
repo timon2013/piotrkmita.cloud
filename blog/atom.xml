@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://piotrkmita.cloud/blog</id>
     <title>Piotr Kmita Blog</title>
-    <updated>2024-07-23T00:00:00.000Z</updated>
+    <updated>2024-09-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://piotrkmita.cloud/blog"/>
     <subtitle>Piotr Kmita Blog</subtitle>
     <icon>https://piotrkmita.cloud/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Amazon Q Developer Code Challenge]]></title>
+        <id>https://piotrkmita.cloud/blog/amazon-q-developer-code-challenge</id>
+        <link href="https://piotrkmita.cloud/blog/amazon-q-developer-code-challenge"/>
+        <updated>2024-09-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Q Developer Code Challenge]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="amazon-q-developer-code-challenge">Amazon Q Developer Code Challenge<a href="https://piotrkmita.cloud/blog/amazon-q-developer-code-challenge#amazon-q-developer-code-challenge" class="hash-link" aria-label="Bezpośredni link do Amazon Q Developer Code Challenge" title="Bezpośredni link do Amazon Q Developer Code Challenge">​</a></h3>
+<p>Amazon Q Developer Code Challenge, zorganizowany podczas AWS Summit 2024, to rywalizacja między zespołem korzystającym z asystenta AI, Amazon Q Developer, a zespołem kodującym ręcznie.</p>
+<p>Zespół wspomagany AI wykazał się większą wydajnością, szybciej realizując złożone zadania dzięki podpowiedziom generowanym przez narzędzie. Wydarzenie pokazało, jak AI może znacząco zwiększyć produktywność w programowaniu, wspierając kodowanie i rozwiązywanie problemów.</p>
+<p>Więcej informacji znajdziesz <a href="https://aws.amazon.com/blogs/devops/amazon-q-developer-code-challenge/" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>]]></content>
+        <author>
+            <name>Piotr Kmita</name>
+            <uri>https://github.com/timon2013/</uri>
+        </author>
+        <category label="amazon q" term="amazon q"/>
+        <category label="amazon" term="amazon"/>
+        <category label="ai" term="ai"/>
+        <category label="gen ai" term="gen ai"/>
+        <category label="challenge" term="challenge"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Odkryj moc Amazon Q]]></title>
         <id>https://piotrkmita.cloud/blog/discover-power-amazon-q</id>
@@ -48,7 +68,7 @@
         <category label="gen ai" term="gen ai"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
+        <title type="html"><![CDATA[Witaj]]></title>
         <id>https://piotrkmita.cloud/blog/welcome</id>
         <link href="https://piotrkmita.cloud/blog/welcome"/>
         <updated>2024-05-06T00:00:00.000Z</updated>
