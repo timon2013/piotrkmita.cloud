@@ -4,10 +4,70 @@
         <title>Piotr Kmita Blog</title>
         <link>https://piotrkmita.cloud/en/blog</link>
         <description>Piotr Kmita Blog</description>
-        <lastBuildDate>Fri, 06 Sep 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[New Console-to-Code Service for Amazon AWS]]></title>
+            <link>https://piotrkmita.cloud/en/blog/amazon-console-to-code</link>
+            <guid>https://piotrkmita.cloud/en/blog/amazon-console-to-code</guid>
+            <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[AWS has introduced the Console-to-Code service, which allows users to easily transform actions performed in the AWS console into code, significantly simplifying the automation and application deployment process. Here’s how this service works and how you can use it.]]></description>
+            <content:encoded><![CDATA[<p>AWS has introduced the <strong>Console-to-Code</strong> service, which allows users to easily transform actions performed in the AWS console into code, significantly simplifying the automation and application deployment process. Here’s how this service works and how you can use it.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-does-console-to-code-work">How does Console-to-Code work?<a href="https://piotrkmita.cloud/en/blog/amazon-console-to-code#how-does-console-to-code-work" class="hash-link" aria-label="Bezpośredni link do How does Console-to-Code work?" title="Bezpośredni link do How does Console-to-Code work?">​</a></h2>
+<ol>
+<li>
+<p><strong>Action Recording</strong>: Console-to-Code automatically records all user actions in the AWS console, such as creating an EC2 instance or configuring a VPC. The user performs standard operations in the console, and the system records these actions.</p>
+</li>
+<li>
+<p><strong>Code Generation</strong>: After completing the actions, the user can go to the Console-to-Code panel, where they can select specific actions to be transformed into code. The service generates the code in the preferred format, such as:</p>
+<ul>
+<li><strong>AWS CloudFormation</strong> (JSON or YAML)</li>
+<li><strong>AWS CDK</strong> (Java, Python, TypeScript)</li>
+</ul>
+</li>
+<li>
+<p><strong>Code Customization</strong>: The generated code can be used as a starting point for further customization and adjustment to specific production needs. Users are encouraged to test and verify the generated code before deploying it.</p>
+</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-to-use-console-to-code">How to use Console-to-Code?<a href="https://piotrkmita.cloud/en/blog/amazon-console-to-code#how-to-use-console-to-code" class="hash-link" aria-label="Bezpośredni link do How to use Console-to-Code?" title="Bezpośredni link do How to use Console-to-Code?">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="step-by-step">Step by step:<a href="https://piotrkmita.cloud/en/blog/amazon-console-to-code#step-by-step" class="hash-link" aria-label="Bezpośredni link do Step by step:" title="Bezpośredni link do Step by step:">​</a></h3>
+<ol>
+<li>
+<p><strong>Log into the AWS console</strong>: Make sure you are in the <strong>US East (N. Virginia)</strong> region, as the service is currently only available in this region.</p>
+</li>
+<li>
+<p><strong>Select the EC2 service</strong>: Start the process, for example, by launching an EC2 instance.</p>
+</li>
+<li>
+<p><strong>Open the Console-to-Code panel</strong>: After performing the actions, find the new "Console-to-Code" option in the left panel.</p>
+</li>
+<li>
+<p><strong>Select actions to transform</strong>: Check the actions you want to include in the generated code (up to 5 actions at a time).</p>
+</li>
+<li>
+<p><strong>Generate code</strong>: Click the button to generate code and choose the preferred format.</p>
+</li>
+<li>
+<p><strong>Download or copy the code</strong>: After generating, you can copy or download the code for further editing.</p>
+</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="limitations">Limitations<a href="https://piotrkmita.cloud/en/blog/amazon-console-to-code#limitations" class="hash-link" aria-label="Bezpośredni link do Limitations" title="Bezpośredni link do Limitations">​</a></h3>
+<ul>
+<li>The service is currently only available for actions related to Amazon EC2, Amazon VPC, and Amazon RDS.</li>
+<li>The ability to record actions is limited to five actions per session.</li>
+<li>The generated code requires further customization before being used in production.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="summary">Summary<a href="https://piotrkmita.cloud/en/blog/amazon-console-to-code#summary" class="hash-link" aria-label="Bezpośredni link do Summary" title="Bezpośredni link do Summary">​</a></h2>
+<p>AWS Console-to-Code is an innovative tool that combines the simplicity of using the console with the power of Infrastructure-as-Code (IaC). It enables users to easily transition from prototyping to production, making it a valuable addition for developers and DevOps engineers.</p>]]></content:encoded>
+            <category>amazon aws</category>
+            <category>amazon</category>
+            <category>ai</category>
+            <category>aws</category>
+            <category>cli</category>
+            <category>code</category>
+        </item>
         <item>
             <title><![CDATA[Amazon Q Developer Code Challenge]]></title>
             <link>https://piotrkmita.cloud/en/blog/amazon-q-developer-code-challenge</link>
