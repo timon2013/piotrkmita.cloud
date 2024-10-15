@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpersonal_site=self.webpackChunkpersonal_site||[]).push([[2224],{7641:(e,s,n)=>{n.r(s),n.d(s,{default:()=>r});n(6540);var i=n(3844),t=n(7639),c=n(4848);function r(){const{siteConfig:e}=(0,t.A)();return(0,c.jsxs)(i.A,{children:[(0,c.jsx)("h1",{children:"My React page"}),(0,c.jsx)("p",{children:e.customFields.description})]})}}}]);
